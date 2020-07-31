@@ -1,3 +1,7 @@
 DNS link:
 
-http://ronaldpineda.tk/
+# sin ssl: (http://ronaldpineda.tk/)
+
+# con ssl:
+
+https://ronaldpineda.tk/
