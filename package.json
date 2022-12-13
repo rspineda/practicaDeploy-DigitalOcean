@@ -9,7 +9,7 @@
   "author": "Ronald Pineda",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "minimist": "^1.2.5",
     "optimist": "^0.6.1",
     "path": "^0.12.7"
